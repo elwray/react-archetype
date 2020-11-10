@@ -1,0 +1,16 @@
+html, body {
+    height:100%;
+}
+
+.reports {
+    padding: 20px;
+}
+
+.data {
+    display: flex;
+    flex-direction: row;
+}
+
+.links {
+    width: 40%;
+}

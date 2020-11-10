@@ -1,0 +1,11 @@
+.app {
+    height: 800px;
+    font-family: 'ProximaNovaA-Light';
+    display: flex;
+    flex-direction: column;
+
+}
+
+.button {
+    background-color: blue;
+}

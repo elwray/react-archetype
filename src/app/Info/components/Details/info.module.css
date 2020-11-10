@@ -1,0 +1,17 @@
+
+.data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
+
+.user {
+    border: 5px solid white;
+    margin-top: -40px;
+}
+
+.low-bridge {
+    padding-top: -10px;
+}

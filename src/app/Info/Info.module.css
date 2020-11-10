@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    margin-left: 20px;
+}
+
+.table {
+    height: 100%;
+}
+
+.cell {
+    display: flex;
+    align-items: flex-start;
+}

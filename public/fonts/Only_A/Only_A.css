@@ -1,0 +1,58 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3738779, 2019-03-25T23:51:27-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ProximaNovaA-Black by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-black/
+ * 
+ * Webfont: ProximaNovaA-Bold by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold/
+ * 
+ * Webfont: ProximaNovaA-Extrabld by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-extrabld/
+ * 
+ * Webfont: ProximaNovaA-Light by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-light/
+ * 
+ * Webfont: ProximaNovaA-Medium by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-medium/
+ * 
+ * Webfont: ProximaNovaA-Thin by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-thin/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3738779
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/390c9b");
+
+  
+@font-face {font-family: 'ProximaNovaA-Black';src: url('webfonts/390C9B_0_0.eot');src: url('webfonts/390C9B_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/390C9B_0_0.woff2') format('woff2'),url('webfonts/390C9B_0_0.woff') format('woff'),url('webfonts/390C9B_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Bold';src: url('webfonts/390C9B_1_0.eot');src: url('webfonts/390C9B_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/390C9B_1_0.woff2') format('woff2'),url('webfonts/390C9B_1_0.woff') format('woff'),url('webfonts/390C9B_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Extrabld';src: url('webfonts/390C9B_2_0.eot');src: url('webfonts/390C9B_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/390C9B_2_0.woff2') format('woff2'),url('webfonts/390C9B_2_0.woff') format('woff'),url('webfonts/390C9B_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Light';src: url('webfonts/390C9B_3_0.eot');src: url('webfonts/390C9B_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/390C9B_3_0.woff2') format('woff2'),url('webfonts/390C9B_3_0.woff') format('woff'),url('webfonts/390C9B_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Medium';src: url('webfonts/390C9B_4_0.eot');src: url('webfonts/390C9B_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/390C9B_4_0.woff2') format('woff2'),url('webfonts/390C9B_4_0.woff') format('woff'),url('webfonts/390C9B_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Thin';src: url('webfonts/390C9B_5_0.eot');src: url('webfonts/390C9B_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/390C9B_5_0.woff2') format('woff2'),url('webfonts/390C9B_5_0.woff') format('woff'),url('webfonts/390C9B_5_0.ttf') format('truetype');}
+ 
